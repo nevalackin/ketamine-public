@@ -1,5 +1,8 @@
 /build
 /.gradle
 /.idea
-/run
+/run/*
+!/run/assets
+/run/assets/skins/
+/run/assets/objects/
 /out
